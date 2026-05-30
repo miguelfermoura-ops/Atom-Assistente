@@ -25,6 +25,7 @@ bash
 Crie e ative um ambiente virtual:
 bash
    python -m venv venv   # Windows   venv\Scripts\activate   # Linux/macOS   source venv/bin/activate
+   python -m venv venv   no Windows:  venv\Scripts\activate   no Linux/macOS:  source venv/bin/activate
 Instale as dependências:
 
 bash
